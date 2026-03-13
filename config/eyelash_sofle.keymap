@@ -71,7 +71,7 @@
 &trans           &trans  &trans  &trans  &trans  &trans    &mmv MOVE_DOWN   &trans  &trans    &kp UP    &trans     &kp MINUS         &kp EQUAL
 &trans           &trans  &trans  &trans  &trans  &trans    &mmv MOVE_LEFT   &trans  &kp LEFT  &kp DOWN  &kp RIGHT  &kp LEFT_BRACKET  &kp RIGHT_BRACKET
 &trans           &trans  &trans  &trans  &trans  &trans    &mmv MOVE_RIGHT  &trans  &trans    &trans    &trans     &kp F11           &kp F12
-&rgb_ug RGB_TOG  &trans  &trans  &trans  &trans  &trans    &mkp LCLK        &trans  &trans    &trans    &trans     &trans
+&rgb_ug RGB_TOG  &trans  &trans  &trans  &trans  &trans    &mkp LCLK        &mo 2   &trans    &trans    &trans     &trans
             >;
 
             display-name = "layer1";
